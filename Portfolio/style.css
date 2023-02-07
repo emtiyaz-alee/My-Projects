@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+    
+}
+body{
+    background-color: black;
+
+}
+.services{
+    text-align: center;
+    /* background-color: black; */
+    /* margin-top: 20px; */
+    color: white;
+}
+
+.navbar-nav a{
+    color: white;
+    
+}
+.navbar-nav{
+    margin-left: auto;
+}
+#navbarNav h5{
+    
+    margin-left: auto;
+}
+#pic{
+    border-radius: 100%;
+}
+.skills{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#btn{
+    border-radius: 8px ;
+    padding: 5px;
+    color: blue;
+    border: 2px solid blue;
+    margin: 5px;
+    width: 120px;
+}
+.portfolio{
+margin-top: 100px;
+margin-bottom: 20x;
+text-align: center;
+}
+.para{
+    text-align: center;
+}
+.portfolio .row{
+margin-top: 50px;
+}
+
+.client{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.fa-star{
+    color: orange;
+}

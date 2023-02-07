@@ -1,0 +1,35 @@
+.header{
+    background-color: greenyellow;
+    height: 100px;
+    padding: 12px;
+}
+.main{
+    display: flex;
+}
+.article{
+    width: 50%;
+    background-color: rgb(192, 191, 191);
+    height: 340px;
+    padding: 12px;
+
+}
+.aside{
+    width: 25%;
+    background-color: rgb(182, 226, 226);
+    height: 340px;
+    padding: 12px;
+
+}
+.nav{
+    width: 25%;
+    background-color: rgb(129, 162, 175);
+    height: 340px;
+    padding: 12px;
+
+}
+.footer{
+    background-color: greenyellow;
+    height: 100px;
+    padding: 12px;
+
+}

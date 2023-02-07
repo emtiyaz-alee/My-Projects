@@ -1,0 +1,39 @@
+body{
+    
+    color: white;
+    width: 100%;
+   height: 800px;
+   margin-top: 23px;
+   /* padding-left: 22px;
+   padding-right: 22px;
+   padding-top: 22px;
+   padding-bottom: 22px; */    
+    padding: 22px 22px 22px 22px; 
+    border-radius: 30px ;
+    border: 8px dotted blue;
+    background-color: red;
+}
+iframe{
+    border: 5px solid rebeccapurple;
+    border-radius: 12px;
+}
+#top{
+    width: 300px;
+    margin: auto;
+   
+    
+}
+#marquee{
+    background-color: rgb(90, 90, 167);
+    color: white;
+    border-radius: 8px;
+    border: 3px solid orange;
+}
+#cent{
+    width: 300px;
+    margin-left: 200px;
+}
+#ri8{
+    width: 300px;
+    margin-left: 200px;
+}

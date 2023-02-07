@@ -1,0 +1,41 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-image: url('https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467_960_720.jpg');
+}
+table{
+    background-color: cyan;
+    border: 5px solid red;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 10px ;
+    border-top-color: red;
+    border-left-color: yellow;
+    border-bottom-color: rgb(116, 47, 58);
+    border-right-color: rgb(74, 17, 128);
+}
+td,th{
+    border: 3px solid blue;
+    padding: 13px; 
+    border-collapse: collapse;
+    border-spacing:13px ;
+}
+th{
+    background-color:rgb( 36, 113, 163);
+}
+.one{
+background-color: rgb(19, 141, 117) ;
+}
+.two{
+background-color: rgb(147, 81, 22);
+}
+td:hover{
+    transform: scale(1.5);
+    background-color:rgb(205, 97, 85 );
+    
+}
+h1{
+    color: white;
+    align-items: center;
+}

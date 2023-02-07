@@ -1,0 +1,50 @@
+#heading{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    color: yellow;
+
+}
+.div1{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    left: 30px;
+    border: 3px solid rebeccapurple;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+    
+}
+.div2{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    border: 3px solid rebeccapurple;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+    
+}
+.div3{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    border: 3px solid rebeccapurple;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-top: 5px;
+    
+}
+
+

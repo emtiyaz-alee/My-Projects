@@ -1,0 +1,112 @@
+.nav{
+    text-align: right;
+    margin-right: 0px;
+    background-color: white;
+    /* border: 1px solid red; */
+    /*  */
+}
+#logo{
+    float: left;
+    margin-top: 5px;
+    color:brown
+
+}
+#logoimage{
+    width: 25px;
+    float: left;
+    margin-top: 3px;
+}
+ul li{
+    display: inline-block;
+    width:100px;
+   
+  
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    display: block;
+    
+   
+}
+ul li a:hover{
+background-color: black;
+color: white;
+border-radius: 6px ;
+text-align: center;
+
+}
+
+/*cmlkmclkwmdckwmdkd*/
+
+#background-image{
+    width: 100%;
+    height: 300px;
+    margin-top: 0px;
+    
+}
+
+.text{
+    position: absolute;
+    top: 90px;
+    margin-left: 50px;
+    color: white;
+    font-size: 20px;
+}
+#btn{
+    background-color: orange;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+.section{
+    text-align: center;
+    width: 75%;
+    margin: 0px auto;
+    background-color: #fafafa;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.videos{
+   text-align: center;
+   border-radius: 15px;
+}
+iframe{
+    border-radius: 15px;
+}
+.upservice{
+    text-align: center;
+    margin-top: 30px;
+    width: 75%;
+    margin: 12px auto;
+}
+.upservice h1{
+    margin-bottom: 15px;
+    color: brown;
+}
+.section h1{
+    color: brown;
+    margin-bottom: 15px;
+}
+#upimage{
+    border-radius: 70%;
+}
+#findus{
+    text-align: center;
+    color: brown;
+    margin-bottom: 20px;
+    margin-top: 12px;
+}
+#mapdes{
+    text-align: center;
+}
+#contactus{
+    color: brown;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
